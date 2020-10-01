@@ -1,4 +1,4 @@
-# SurfaceTypeClassification
+# Surface Type Classification
 Surface type classification using Machine Learning techniques. The `.ipynb` notebook may be previewed here, or can be run on kaggle.
 
 ## Summary of Results
